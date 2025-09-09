@@ -117,7 +117,7 @@ npm start
 
 ## 🌍 Live Demo
 
-The project is deployed and available at: **[https://fitness-genes/SarthakPimprikar](https://fitness-genes.vercel.app/)**
+The project is deployed and available at: **https://fitness-genes.vercel.app/**
 
 ## 🤝 Contributing
 
