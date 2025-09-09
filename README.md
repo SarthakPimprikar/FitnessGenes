@@ -28,8 +28,8 @@ FitnessGym-Website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dawidolko/FitnessGym-Website.git
-cd FitnessGym-Website
+git clone https://github.com/SarthakPimprikar/FitnessGenes.git
+cd FitnessGenes
 ```
 
 ### 2. Install Dependencies
@@ -117,11 +117,7 @@ npm start
 
 ## 🌍 Live Demo
 
-The project is deployed and available at: **[https://fitnessgym.dawidolko.pl](https://fitnessgym.dawidolko.pl)**
-
-## 🖼️ Preview
-
-[<img src="src/assets/fitnessgym.dawidolko.pl_.png" width="80%" alt="FitnessGym Website Preview"/>](src/assets/fitnessgym.dawidolko.pl_.png)
+The project is deployed and available at: **[https://fitness-genes/SarthakPimprikar](https://fitness-genes.vercel.app/)**
 
 ## 🤝 Contributing
 
@@ -136,7 +132,7 @@ Feel free to open issues or reach out through GitHub for any questions or sugges
 
 ## 👨‍💻 Author
 
-Created by **Dawid Olko** - Part of the **FitnessGym** project series.
+Created by **Sarthak Pimprikar** - Part of the **FitnessGenes** project.
 
 ## 📄 License
 
