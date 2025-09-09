@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="footer__content">
           <div className="footer__box">
             <Link to="/" className="footer__logo">
-              <p className="footer__logo-text">FitnessGym</p>
+              <p className="footer__logo-text">FitnessGenes</p>
             </Link>
             <div className="footer__desc">
               Join our gym to strengthen your body, improve fitness, and achieve
