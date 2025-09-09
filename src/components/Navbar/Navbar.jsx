@@ -35,7 +35,7 @@ const Navbar = () => {
     <nav className={navBgc ? "navbar navbar__bgc" : "navbar"}>
       <div className="navbar__container container">
         <Link to="/" className="navbar__logo">
-          <p className="navbar__logo-text">FitnessGym</p>
+          <p className="navbar__logo-text">FitnessGenes</p>
         </Link>
         <ul
           className={
