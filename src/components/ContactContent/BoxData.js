@@ -7,7 +7,7 @@ const boxData = [
     link: "https://maps.app.goo.gl/jKPN2oKWiUrcJuuD9",
     icon: <FaMapLocationDot />,
     boxTitle: "Our Location",
-    details: "38 Fitness Street, New York",
+    details: "Sinhgadh Road, Pune, Maharashtra",
     target: "_blank",
   },
   {
@@ -15,14 +15,14 @@ const boxData = [
     link: "tel:+1234567890",
     icon: <FaPhoneVolume />,
     boxTitle: "Contact Us",
-    details: "(123) 456 7890",
+    details: "+91 12345 67890",
   },
   {
     id: 3,
-    link: "mailto:contact@fitnessgym.com",
+    link: "mailto:pimprikarsarthak@gmail.com",
     icon: <LuMails />,
     boxTitle: "Email Us",
-    details: "contact@fitnessgym.com",
+    details: "pimprikarsarthak@gmail.com",
   },
 ];
 
