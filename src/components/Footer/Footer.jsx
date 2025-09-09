@@ -64,19 +64,19 @@ const Footer = () => {
                 href="https://maps.app.goo.gl/jKPN2oKWiUrcJuuD9"
                 target="_blank"
                 rel="noreferrer">
-                38 Park Avenue New York
+                Sinhgadh Road, Pune, Maharashtra.
               </a>
             </div>
             <div className="footer__contact">
               <AiFillMail className="footer__icon" />
-              <a className="footer__link" href="mailto:info@example.com">
-                FitnessGym@gmail.com
+              <a className="footer__link" href="mailto:pimprikarsarthak@gmail.com">
+                pimprikarsarthak@gmail.com
               </a>
             </div>
             <div className="footer__contact">
               <AiFillPhone className="footer__icon" />
-              <a className="footer__link" href="tel:+1231234567890">
-                (123) 1234 567 890
+              <a className="footer__link" href="tel:+123456789">
+                +91 12345 67890
               </a>
             </div>
           </div>
@@ -85,7 +85,7 @@ const Footer = () => {
         <div className="footer__date">
           <p>
             &copy; Copyright {new Date().getFullYear()}
-            <span className="footer__logo-name"> FitnessGym </span>
+            <span className="footer__logo-name"> FitnessGenes </span>
             All Rights Reserved.
           </p>
           <div className="footer__icons">
